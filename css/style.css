@@ -12,7 +12,7 @@ body{
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #ffd2d4 url("https://i.pinimg.com/originals/44/d3/e4/44d3e4885b215238e1ca71c925ceea52.gif")  /* url(img/cute-flowers.gif) */;
+    background: #ffd2d4 url('../img/cute-flowers.gif');
 }
 
 .wrapper{
@@ -45,11 +45,11 @@ body{
 }
 
 .play-board .food{
-    background: #971836;
+    background: #962942;
 }
 
 .play-board .head{
-    background: #e689af;
+    background: #f888a4;
 }
 
 .controls{
